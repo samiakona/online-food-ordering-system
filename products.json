@@ -1,0 +1,46 @@
+[
+    {
+    "id": 1,
+    "name": "Beef Burger",
+    "price": 250 ,
+    "imgSrc": "image/1.jpg"
+    },
+  {
+    "id": 2,
+    "name": "Pen Cake",
+    "price": 200,
+    "imgSrc": "image/2.jpg"
+},
+{
+    "id": 3,
+    "name": "Pasta",
+    "price": 200,
+    "imgSrc": "image/3.jpg"
+},
+{
+    "id": 4,
+    "name": "French fries",
+    "price": 100,
+    "imgSrc": "image/4.jpg"
+},
+
+{
+    "id": 5,
+    "name": "Chicken Pizza",
+    "price": 600,
+    "imgSrc": "image/5.jpg"
+},
+{
+    "id": 6,
+    "name": "Chicken Fries",
+    "price": 150,
+    "imgSrc": "image/1.jpg"
+},
+{
+    "id": 7,
+    "name": "Chicken shawarma",
+    "price": 250,
+    "imgSrc": "image/1.jpg"
+}
+
+]
