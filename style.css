@@ -11,6 +11,7 @@ body{
     padding-top: 10px;
     transition: transform .5s;
 }
+
 svg{
     width: 30px;
 }
@@ -129,4 +130,9 @@ body.showCart .container{
 }
 .listCart::-webkit-scrollbar{
     width: 0;
+}
+@media only screen and (max-width: 992px) {
+    .listProduct {
+        grid-template-columns: repeat(3, 1fr);
+    }
 }
